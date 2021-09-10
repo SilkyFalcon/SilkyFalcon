@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Backend/Frontend developer from Hungary</h3>
 
 
-- 🔗 Web backend & Java developer at [GuestMC]()
 - 🔗 Web backend & Java developer at **GuestMC**
 
 - 🌱 Learning **Java, PHP & C#**
