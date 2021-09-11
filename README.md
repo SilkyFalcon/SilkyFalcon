@@ -4,7 +4,7 @@
 
 - 🔗 Web backend & Java developer at [GuestMC](https://discord.gg/4Vwqu6x)
 
-- 🌱 Learning **Java, PHP & C#**
+- 🌱 Learning **Java, PHP & C++**
 
 - ⚙ Working on APIs & Database related projects
 - 💬 Discord: **SilkyFalcon#8240**
