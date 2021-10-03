@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend/Frontend developer from Hungary</h3>
 
 
-- 🔗 Web backend & Java developer at [GuestMC](https://discord.gg/4Vwqu6x)
+- 🔗 Web backend & Java developer at [SuliWiFi](https://discord.gg/4Vwqu6x)
 
 - 🌱 Learning **Java, PHP & C++**
 
