@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Backend/Frontend developer from Hungary</h3>
 
 
-- 🔗 Web backend & Java developer at [SuliWiFi](https://discord.gg/4Vwqu6x)
+- 🔗 Web & Java developer
 
 - 🌱 Learning **Java, PHP & C++**
 
 - ⚙ Working on APIs & Database related projects
 
-- 💬 Discord: **SilkyFalcon#8240**
+- 💬 Discord: [**SilkyFalcon#8240**](https://discord.com/users/445229420869976085/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
