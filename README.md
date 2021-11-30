@@ -4,7 +4,7 @@
 
 - 🔗 Web & Java developer
 
-- 🌱 Learning **Java, PHP & C++**
+- 🌱 Learning **Java, JS & C++**
 
 - ⚙ Working on APIs & Database related projects
 
