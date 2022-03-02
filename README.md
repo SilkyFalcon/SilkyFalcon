@@ -1,6 +1,4 @@
 ### Hi, I'm SilkyFalcon 👋</h1>
-<br/>
-
 
 - 🔗 Web & Java developer
 
