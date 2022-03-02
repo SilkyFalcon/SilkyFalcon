@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm SilkyFalcon</h1>
-<h3 align="center">A passionate Backend/Frontend developer from Hungary</h3>
+### Hi, I'm SilkyFalcon 👋</h1>
+<br/>
 
 
 - 🔗 Web & Java developer
