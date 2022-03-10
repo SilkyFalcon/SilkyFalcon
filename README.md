@@ -1,5 +1,5 @@
 ### Hi, I'm SilkyFalcon 👋</h1>
-
+![](https://komarev.com/ghpvc/?username=silkyfalcon)
 - 🔗 Web & Java developer
 
 - 🌱 Learning **Java, JS & C++**
