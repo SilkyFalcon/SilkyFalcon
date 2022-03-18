@@ -6,6 +6,8 @@
 
 - ⚙ Working on APIs & Database related projects
 - 💬 Discord: [**SilkyFalcon#8240**](https://discord.com/users/445229420869976085/)
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -23,3 +25,5 @@
 <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/0/0c/Xcode_icon.png" alt="XCode" width="40" height="40"/> </a>
 <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1200px-Visual_Studio_2017_Logo.svg.png" alt="Visual Studio" width="40" height="40"/> </a>
 
+#
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yhh5yafnynncexen2tn3q2m4g&count=5)
