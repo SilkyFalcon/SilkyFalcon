@@ -26,4 +26,4 @@
 <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1200px-Visual_Studio_2017_Logo.svg.png" alt="Visual Studio" width="40" height="40"/> </a>
 
 #
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yhh5yafnynncexen2tn3q2m4g&count=5)
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=yhh5yafnynncexen2tn3q2m4g&count=5)
