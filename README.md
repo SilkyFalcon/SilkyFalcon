@@ -2,7 +2,7 @@
 
 - 🔗 Backend & Java developer
 
-- 🌱 Learning **Java, JS & C++**
+- 🌱 Learning **C++, Java & Scala**
 
 - ⚙ Working on APIs & Database related projects
 - 💬 Discord: [**SilkyFalcon#8240**](https://discord.com/users/445229420869976085/)
