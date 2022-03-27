@@ -1,6 +1,6 @@
 ### Hi, I'm SilkyFalcon 👋</h1>
 
-- 🔗 Backend & Java developer
+- 🔗 Fullstack & Java developer
 
 - 🌱 Learning **C++, Java & Scala**
 
