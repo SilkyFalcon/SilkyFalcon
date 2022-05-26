@@ -1,6 +1,6 @@
 ### Hi, I'm SilkyFalcon 👋</h1>
 
-- 🔗 Fullstack developer
+- 🔗 Fullstack & Java developer
 
 - 🌱 Learning **C++, Prolog & Scala**
 
