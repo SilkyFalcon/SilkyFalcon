@@ -1,8 +1,8 @@
 ### Hi, I'm SilkyFalcon 👋</h1>
 
-- 🔗 Fullstack & Java developer
+- 🔗 Fullstack developer
 
-- 🌱 Learning **C++, Java & Scala**
+- 🌱 Learning **C++, Prolog & Scala**
 
 - ⚙ Working on APIs & Database related projects
 - 💬 Discord: [**SilkyFalcon#8240**](https://discord.com/users/445229420869976085/)
