@@ -6,8 +6,6 @@
 
 - ⚙ Working on APIs & Database related projects
 
-- 👀 [Contact details »]()
-
 - 💬 Discord: [**SilkyFalcon#8240**](https://discord.com/users/445229420869976085/)
 
 
